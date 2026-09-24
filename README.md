@@ -272,11 +272,6 @@ A simple calculator application implementing arithmetic operations through an in
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanChaurasia25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanChaurasia25&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=AryanChaurasia25&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -288,9 +283,6 @@ A simple calculator application implementing arithmetic operations through an in
   <img src="https://leetcard.jacoblin.cool/aryan_chaurasia25?theme=dark&font=Baloo%202&ext=heatmap" />
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/aryan_chaurasia25?theme=dark&ext=heatmap" />
-</p>
 
 ---
 
